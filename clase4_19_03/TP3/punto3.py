@@ -1,6 +1,6 @@
 # Pedimos al usuario que ingrese la base y el exponente
-base = int(input("Ingrese la base: "))
-exponente = int(input("Ingrese el exponente: "))
+base = 2
+exponente = 5
 
 # ------------------------------------------------------------
 # Opción 1: Usar el operador **

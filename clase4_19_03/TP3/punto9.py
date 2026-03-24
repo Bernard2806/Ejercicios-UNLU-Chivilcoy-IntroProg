@@ -1,7 +1,7 @@
 import requests
 
 # Monto en pesos argentinos
-pesos = float(input("Ingrese la cantidad de pesos argentinos: "))
+pesos = 10000.0
 
 # Tasas fijas
 usd_rate = 80.5

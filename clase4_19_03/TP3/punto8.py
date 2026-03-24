@@ -1,6 +1,6 @@
 # Pedimos al usuario que ingrese las dos notas
-nota1 = float(input("Ingrese la nota del primer parcial: "))
-nota2 = float(input("Ingrese la nota del segundo parcial: "))
+nota1 = 7.0
+nota2 = 9.0
 
 # Calculo el promedio
 promedio = (nota1 + nota2) / 2

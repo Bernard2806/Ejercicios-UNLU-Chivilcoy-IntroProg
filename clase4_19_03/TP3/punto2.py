@@ -1,5 +1,5 @@
 # Pedimos al usuario que ingrese su nombre de pila
-nombre_de_pila = input("Ingrese tu nombre de pila: ")
+nombre_de_pila = "Bernardo"
 
 # ------------------------------------------------------------
 # Opción 1: Usar len() directamente
