@@ -1,4 +1,4 @@
-# Pedimos al usuario que ingrese las dos notas
+# Las dos notas
 nota1 = 7.0
 nota2 = 9.0
 

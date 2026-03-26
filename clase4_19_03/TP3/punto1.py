@@ -1,4 +1,3 @@
-print("Ingrese el número del que desea saber el valor absoluto:")
 numero = -8
 
 # Solución 1: Usar if/else tradicional

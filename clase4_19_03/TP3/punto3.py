@@ -1,4 +1,4 @@
-# Pedimos al usuario que ingrese la base y el exponente
+# Base y el exponente
 base = 2
 exponente = 5
 
