@@ -8,4 +8,4 @@ for i in range(1, 11):
         maximo = num
         posicion_max = i
 
-print(f"El mayor número ingresado es {maximo}, y lo ingresaste en la posición {posicion_max}")
+print(f"El mayor numero ingresado es {maximo} y fue ingresado en la posicion {posicion_max}")
